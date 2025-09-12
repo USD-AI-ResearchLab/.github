@@ -27,8 +27,8 @@
 <div align="center" style="margin-top: 20px;">
   <p>
     <strong>Mission:</strong> <em>Where Coyotes howl and AI innovation powers sustainable futures</em><br>
-    <strong>Website:</strong> <a href="https://github.com/USD-AI-ResearchLab">https://github.com/USD-AI-ResearchLab</a> • 
-    <strong>Contact:</strong> <a href="mailto:researchlab@usd.edu">researchlab@usd.edu</a> • 
+    <strong>Website:</strong> <a href="https://www.ai-research-lab.org/">ai-research-lab.org</a> • 
+    <strong>Contact:</strong> <a href="usd.airesearch.lab@gmail.com">usd.airesearch.lab@gmail.com</a> • 
     <strong>Location:</strong> Vermillion, SD, USA
   </p>
 </div>
@@ -41,8 +41,11 @@
 
 ---
 
-## About Our Research
-**Purpose:** Establish our scientific scope and strengths.
+## About 
+We are excited to have you explore our work, where we push the boundaries of foundational AI and machine learning while embracing sustainable AI solutions.
+Our research spans green computing, active learning, and scalable as well as robust AI solutions, ensuring efficiency while saying no to carbon footprint.
+We specialize in areas such as pattern recognition, computer vision, image processing, data mining, and big data analytics. Our interdisciplinary work impacts domains including healthcare informatics, medical imaging, document analysis, biometrics, forensics, speech processing, and the Internet of Things.
+Join us as we drive AI innovation with sustainability at its core!
 
 ### Research Overview
 We design **reliable, transparent, and deployable AI** by pairing solid theory with field-tested engineering. Our work spans core ML and domain problems in health, environment, and mobility—always with **ethics** and **reproducibility** at the core.
