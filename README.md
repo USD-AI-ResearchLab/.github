@@ -26,7 +26,7 @@
 
 <div align="center" style="margin-top: 20px;">
   <p>
-    <strong>Mission:</strong> <em>Where Coyotes howl and AI innovation powers sustainable futures</em><br>
+    <strong>Mission:</strong> <em>The Coyote's AI powerhouse on Sustainable innovation from the Rushmore State</em><br>
     <strong>Website:</strong> <a href="https://www.ai-research-lab.org/">ai-research-lab.org</a> • 
     <strong>Contact:</strong> <a href="usd.airesearch.lab@gmail.com">usd.airesearch.lab@gmail.com</a> • 
     <strong>Location:</strong> Vermillion, SD, USA
