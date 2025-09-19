@@ -33,13 +33,12 @@
   </p>
 </div>
 
-<p align="left">
+
+<!--<p align="left">
   <img alt="Open Science" src="https://img.shields.io/badge/Open%20Science-%E2%9C%93-informational">
   <img alt="Reproducible" src="https://img.shields.io/badge/Reproducible-%E2%9C%93-success">
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-blue">
-</p>
-
----
+</p>-->
 
 ## About 
 We are excited to have you explore our work, where we push the boundaries of foundational AI and machine learning while embracing sustainable AI solutions.
@@ -47,10 +46,11 @@ Our research spans green computing, active learning, and scalable as well as rob
 We specialize in areas such as pattern recognition, computer vision, image processing, data mining, and big data analytics. Our interdisciplinary work impacts domains including healthcare informatics, medical imaging, document analysis, biometrics, forensics, speech processing, and the Internet of Things.
 Join us as we drive AI innovation with sustainability at its core!
 
-### Research Overview
+
+<!--### Research Overview
 We design **reliable, transparent, and deployable AI** by pairing solid theory with field-tested engineering. Our work spans core ML and domain problems in health, environment, and mobility—always with **ethics** and **reproducibility** at the core.
 
-### Key Areas (pillars)
+--- ### Key Areas (pillars)
 - **Trustworthy & Ethical AI** — interpretability, robustness, bias mitigation, rigorous evaluation.  
 - **Representation & Multimodal Learning** — text, vision, geospatial, **hyperspectral**, time-series.  
 - **ML Systems & Data Engineering** — scalable pipelines (batch/streaming), lakehouse, MLOps.  
