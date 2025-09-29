@@ -1,3 +1,27 @@
+<p style="width:100%; display:inline-block;">
+
+  <!-- Left side links -->
+  <span style="float:left; line-height:60px;">
+    <a href="README.md" style="text-decoration:none;"><strong>Home</strong></a> | 
+    <a href="About.md" style="text-decoration:none;"><strong>About</strong></a> | 
+    <a href="Collaborate.md" style="text-decoration:none;"><strong>Collaborate</strong></a> | 
+    <a href="Community.md" style="text-decoration:none;"><strong>Community</strong></a> | 
+    <a href="People.md" style="text-decoration:none;"><strong>People</strong></a> | 
+    <a href="Projects.md" style="text-decoration:none;"><strong>Projects</strong></a> | 
+    <a href="Publications.md" style="text-decoration:none;"><strong>Publications</strong></a> | 
+    <a href="Archives.md" style="text-decoration:none;"><strong>Archives</strong></a>
+  </span>
+
+  <!-- Right side logo -->
+  <span style="float:right; vertical-align:middle;">
+    <img src="https://github.com/USD-AI-ResearchLab/.github/raw/main/logo.png" 
+         alt="USD AI Research Lab Logo" 
+         width="160" 
+         style="vertical-align:middle;"/>
+  </span>
+
+</p>
+
 # About the University of South Dakota AI Research Laboratory
 
 > **The Coyote’s AI powerhouse — sustainable innovation from the Rushmore State.**
