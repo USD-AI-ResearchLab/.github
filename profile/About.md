@@ -1,27 +1,15 @@
-<!-- Nav bar + logo in same line -->
-<div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
-
-  <!-- Left side: nav links -->
-  <div>
-    <a href="README.md"><strong>Home</strong></a> | 
-    <a href="About.md"><strong>About</strong></a> | 
-    <a href="Collaborate.md"><strong>Collaborate</strong></a> | 
-    <a href="Community.md"><strong>Community</strong></a> | 
-    <a href="People.md"><strong>People</strong></a> | 
-    <a href="Projects.md"><strong>Projects</strong></a> | 
-    <a href="Publications.md"><strong>Publications</strong></a> | 
-    <a href="Archives.md"><strong>Archives</strong></a>
-  </div>
-
-  <!-- Right side: logo -->
-  <div>
-    <img src="https://github.com/USD-AI-ResearchLab/.github/raw/main/logo.png" 
-         alt="USD AI Research Lab Logo" 
-         width="120" 
-         style="vertical-align:middle;"/>
-  </div>
+<div align="left">
+  <p>
+    <a href="README.md" style="text-decoration: none;"><strong>Home</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="About.md" style="text-decoration: none;"><strong>About</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="Collaborate.md" style="text-decoration: none;"><strong>Collaborate</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="Community.md" style="text-decoration: none;"><strong>Community</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="People.md" style="text-decoration: none;"><strong>People</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="Projects.md" style="text-decoration: none;"><strong>Projects</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="Publications.md" style="text-decoration: none;"><strong>Publications</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="Archives.md" style="text-decoration: none;"><strong>Archives</strong></a>
+  </p>
 </div>
-
 <h1>About the University of South Dakota AI Research Laboratory</h1>
 
 <blockquote>
