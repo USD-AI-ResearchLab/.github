@@ -1,58 +1,81 @@
-<p style="width:100%; display:inline-block;">
+<!-- Nav bar + logo in same line -->
+<div style="display:flex; justify-content:space-between; align-items:center; width:100%;">
 
-  <!-- Left side links -->
-  <span style="float:left; line-height:60px;">
-    <a href="README.md" style="text-decoration:none;"><strong>Home</strong></a> | 
-    <a href="About.md" style="text-decoration:none;"><strong>About</strong></a> | 
-    <a href="Collaborate.md" style="text-decoration:none;"><strong>Collaborate</strong></a> | 
-    <a href="Community.md" style="text-decoration:none;"><strong>Community</strong></a> | 
-    <a href="People.md" style="text-decoration:none;"><strong>People</strong></a> | 
-    <a href="Projects.md" style="text-decoration:none;"><strong>Projects</strong></a> | 
-    <a href="Publications.md" style="text-decoration:none;"><strong>Publications</strong></a> | 
-    <a href="Archives.md" style="text-decoration:none;"><strong>Archives</strong></a>
-  </span>
+  <!-- Left side: nav links -->
+  <div>
+    <a href="README.md"><strong>Home</strong></a> | 
+    <a href="About.md"><strong>About</strong></a> | 
+    <a href="Collaborate.md"><strong>Collaborate</strong></a> | 
+    <a href="Community.md"><strong>Community</strong></a> | 
+    <a href="People.md"><strong>People</strong></a> | 
+    <a href="Projects.md"><strong>Projects</strong></a> | 
+    <a href="Publications.md"><strong>Publications</strong></a> | 
+    <a href="Archives.md"><strong>Archives</strong></a>
+  </div>
 
-  <!-- Right side logo -->
-  <span style="float:right; vertical-align:middle;">
+  <!-- Right side: logo -->
+  <div>
     <img src="https://github.com/USD-AI-ResearchLab/.github/raw/main/logo.png" 
          alt="USD AI Research Lab Logo" 
-         width="160" 
+         width="120" 
          style="vertical-align:middle;"/>
-  </span>
+  </div>
+</div>
 
+<h1>About the University of South Dakota AI Research Laboratory</h1>
+
+<blockquote>
+  <b>The Coyote’s AI powerhouse — sustainable innovation from the Rushmore State.</b>
+</blockquote>
+
+<p>
+We design <b>reliable, efficient, and deployable AI</b> by pairing solid theory with field-tested engineering. 
+Our work spans core machine learning and domain problems in <b>healthcare</b>, 
+<b>environmental sensing</b>, and <b>spatiotemporal systems</b>—always with 
+<b>ethics, openness, and reproducibility</b> at the core.
 </p>
 
-# About the University of South Dakota AI Research Laboratory
+<h2>Mission</h2>
+<p>
+Advance AI that is <b>trustworthy</b>, <b>resource-aware</b>, and <b>impactful</b>, while training the next generation 
+of builders in South Dakota and beyond.
+</p>
 
-> **The Coyote’s AI powerhouse — sustainable innovation from the Rushmore State.**
+<h2>What We Work On</h2>
+<ul>
+  <li><b>Trustworthy & Ethical AI</b> — robustness, interpretability, bias mitigation, evaluation.</li>
+  <li><b>Representation & Multimodal Learning</b> — text, vision, <b>hyperspectral</b>, geospatial, time-series.</li>
+  <li><b>ML Systems & Data Engineering</b> — scalable pipelines (batch/stream), lakehouse, MLOps.</li>
+  <li><b>Applied AI</b> — early clinical warning, remote sensing for ecology/climate, mobility & logistics.</li>
+</ul>
 
-We design **reliable, efficient, and deployable AI** by pairing solid theory with field-tested engineering. Our work spans core machine learning and domain problems in **healthcare**, **environmental sensing**, and **spatiotemporal systems**—always with **ethics, openness, and reproducibility** at the core.
+<h2>How We Work</h2>
+<ul>
+  <li><b>Methods:</b> self-supervision, graph learning, active learning, probabilistic modeling.</li>
+  <li><b>Tooling:</b> Python/SQL, PyTorch/JAX, Spark/Databricks, Delta/Snowflake, Airflow/Prefect, Docker.</li>
+  <li><b>Standards:</b> dataset cards, model cards, governance and documentation, CI/CD for data & models.</li>
+</ul>
 
-## Mission
-Advance AI that is **trustworthy**, **resource-aware**, and **impactful**, while training the next generation of builders in South Dakota and beyond.
+<h2>Sustainability Commitment</h2>
+<p>
+We measure and reduce compute footprints via <b>efficient model design</b>, 
+<b>data-centric workflows</b>, and <b>carbon-aware scheduling</b>. 
+Publications include <b>energy/CO₂ reporting</b> where applicable.
+</p>
 
-## What We Work On
- **Trustworthy & Ethical AI** — robustness, interpretability, bias mitigation, evaluation.
- **Representation & Multimodal Learning** — text, vision, **hyperspectral**, geospatial, time-series.
- **ML Systems & Data Engineering** — scalable pipelines (batch/stream), lakehouse, MLOps.
- **Applied AI** — early clinical warning, remote sensing for ecology/climate, mobility & logistics.
+<h2>Open Science</h2>
+<p>
+We release <b>code, data artifacts, and model checkpoints</b> whenever possible.
+</p>
+<ul>
+  <li>👉 Explore projects → <a href="./Projects.md">Projects</a></li>
+  <li>📖 Read our publication list → <a href="./Publications.md">Publications</a></li>
+  <li>🤝 Contribute → <a href="./Collaborate.md">Collaborate</a></li>
+</ul>
 
-## How We Work
- **Methods:** self-supervision, graph learning, active learning, probabilistic modeling.
- **Tooling:** Python/SQL, PyTorch/JAX, Spark/Databricks, Delta/Snowflake, Airflow/Prefect, Docker.
- **Standards:** dataset cards, model cards, governance and documentation, CI/CD for data & models.
-
-## Sustainability Commitment
-We measure and reduce compute footprints via **efficient model design**, **data-centric workflows**, and **carbon-aware scheduling**. Publications include **energy/CO₂ reporting** where applicable.
-
-## Open Science
-We release **code, data artifacts, and model checkpoints** whenever possible.
- Explore projects → [`Projects`](./Projects.md)  
- Read our publication list → [`Publications`](./Publications.md)  
- Contribute → [`Collaborate`](./Collaborate.md)
-
-## Contact
- **Website:** https://www.ai-research-lab.org/  
- **Email:** usd.airesearch.lab@gmail.com  
- **Location:** Vermillion, SD, USA
-
+<h2>Contact</h2>
+<p>
+<b>Website:</b> <a href="https://www.ai-research-lab.org/">https://www.ai-research-lab.org/</a><br/>
+<b>Email:</b> usd.airesearch.lab@gmail.com<br/>
+<b>Location:</b> Vermillion, SD, USA
+</p>
