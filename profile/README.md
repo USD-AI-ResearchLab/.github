@@ -38,7 +38,6 @@ Join us as we drive AI innovation with sustainability at its core!
     <a href="Paper_with_code.md" style="text-decoration: none;"><strong>Paper with Code</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 </div>
-Write papers with code .. add links thier repositories ... make them yearwise 
 
 <!--### Research Overview
 We design **reliable, transparent, and deployable AI** by pairing solid theory with field-tested engineering. Our work spans core ML and domain problems in health, environment, and mobility—always with **ethics** and **reproducibility** at the core.
