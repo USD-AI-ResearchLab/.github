@@ -33,6 +33,11 @@ Our research spans green computing, active learning, and scalable as well as rob
 We specialize in areas such as pattern recognition, computer vision, image processing, data mining, and big data analytics. Our interdisciplinary work impacts domains including healthcare informatics, medical imaging, document analysis, biometrics, forensics, speech processing, and the Internet of Things.
 Join us as we drive AI innovation with sustainability at its core!
 
+<div align="left">
+  <p>
+    <a href="Paper_with_code.md" style="text-decoration: none;"><strong>Paper with Code</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </p>
+</div>
 Write papers with code .. add links thier repositories ... make them yearwise 
 
 <!--### Research Overview
