@@ -5,18 +5,6 @@
 <!-- ### South Dakota's AI powerhouse: Sustainable innovation carved from the Rushmore spirit -->
 <!-- ### Howling at the frontier of sustainable AI: The Rushmore State's research powerhouse -->
 <!-- ### The Coyote's AI powerhouse: Sustainable innovation from the Rushmore State -->
-<div align="left">
-  <p>
-    <a href="README.md" style="text-decoration: none;"><strong>Home</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="About.md" style="text-decoration: none;"><strong>About</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="Collaborate.md" style="text-decoration: none;"><strong>Collaborate</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="Community.md" style="text-decoration: none;"><strong>Community</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="People.md" style="text-decoration: none;"><strong>People</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="Projects.md" style="text-decoration: none;"><strong>Projects</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="Publications.md" style="text-decoration: none;"><strong>Publications</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="Archives.md" style="text-decoration: none;"><strong>Archives</strong></a>
-  </p>
-</div>
 
 <div align="center">
   <img src="https://github.com/USD-AI-ResearchLab/.github/raw/main/logo.png" alt="University of South Dakota AI Research Laboratory" width="400"/>
