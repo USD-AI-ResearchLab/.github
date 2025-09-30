@@ -33,6 +33,7 @@ Our research spans green computing, active learning, and scalable as well as rob
 We specialize in areas such as pattern recognition, computer vision, image processing, data mining, and big data analytics. Our interdisciplinary work impacts domains including healthcare informatics, medical imaging, document analysis, biometrics, forensics, speech processing, and the Internet of Things.
 Join us as we drive AI innovation with sustainability at its core!
 
+Write papers with code .. add links thier repositories ... make them yearwise 
 
 <!--### Research Overview
 We design **reliable, transparent, and deployable AI** by pairing solid theory with field-tested engineering. Our work spans core ML and domain problems in health, environment, and mobility—always with **ethics** and **reproducibility** at the core.
