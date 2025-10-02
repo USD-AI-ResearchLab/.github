@@ -7,13 +7,13 @@
 <!-- ### The Coyote's AI powerhouse: Sustainable innovation from the Rushmore State -->
 
 <div align="Left">
-  <img src="https://github.com/USD-AI-ResearchLab/.github/raw/main/logo.png" alt="University of South Dakota AI Research Laboratory" width="350"/>
+  <img src="https://github.com/USD-AI-ResearchLab/.github/raw/main/logo.png" alt="University of South Dakota AI Research Lab" width="350"/>
   
-  <h1 style="display: inline; margin: 0;">University of South Dakota AI Research Laboratory</h1>
+  <h1 style="display: inline; style="margin-top: -20px;">University of South Dakota AI Research Lab</h1>
   <span style="font-size: 1.2rem; color: #718096; margin-left: 10px;">(formerly <a href="https://github.com/2ai-lab/" style="color: #4299e1;">2ai lab</a>)</span>
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<div align="left" style="margin-top: 20px;">
   <p>
     <strong>Mission:</strong> <em>The Coyote's AI powerhouse on Sustainable innovation from the Rushmore State</em><br>
     <strong>Website:</strong> <a href="https://www.ai-research-lab.org/">ai-research-lab.org</a> • 
