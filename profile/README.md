@@ -9,8 +9,8 @@
 <div align="Left">
   <img src="https://github.com/USD-AI-ResearchLab/.github/raw/main/logo.png" alt="University of South Dakota AI Research Lab" width="350"/>
   
-  <h1 style="display: inline; style="margin-top: -2000px;">University of South Dakota AI Research Lab</h1>
-  <span style="font-size: 1.2rem; color: #718096; margin-left: 10px;">(formerly <a href="https://github.com/2ai-lab/" style="color: #4299e1;">2ai lab</a>)</span>
+  <span style="display: inline; font-size: 5em; style= margin-top: -2000px;">University of South Dakota AI Research Lab</span>
+  <span style="font-size: 1.2em; color: #718096; margin-left: 10px;">(formerly <a href="https://github.com/2ai-lab/" style="color: #4299e1;">2ai lab</a>)</span>
 </div>
 
 <div align="left" style="margin-top: 20px;">
