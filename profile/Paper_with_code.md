@@ -1,136 +1,6 @@
-<!-- =============== ROW 1 =============== -->
-<table border="0" width="100%" cellspacing="0" cellpadding="0" role="presentation">
-  <tr>
-    <!-- LEFT CARD -->
-    <td width="50%" valign="top" align="left">
-      <table border="1" width="100%" cellpadding="16" cellspacing="0" role="presentation">
-        <tr><td>
-          <!-- CARD -->
-          <div>✅</div>
-          <strong>Non‑Uniform Illumination Attack for Fooling Convolutional Neural Networks</strong><br>
-          <sub><em>NUI masks degrade CNNs; simple defense via NUI‑augmented training across CIFAR‑10, TinyImageNet, Caltech‑256.</em></sub><br>
-          <a href="https://arxiv.org/abs/2409.03458" target="_blank" rel="noopener">
-            <img alt="Paper" src="https://img.shields.io/badge/Paper-Read-0969DA?style=for-the-badge">
-          </a>
-          <a href="https://github.com/Akshayjain97/Non-Uniform_Illumination" target="_blank" rel="noopener">
-            <img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
-          </a>
-          <!-- /CARD -->
-        </td></tr>
-      </table>
-    </td>
-
-    <!-- GAP (non‑empty so it never collapses) -->
-    <td width="24" align="center">&nbsp;</td>
-
-    <!-- RIGHT CARD -->
-    <td width="50%" valign="top" align="left">
-      <table border="1" width="100%" cellpadding="16" cellspacing="0" role="presentation">
-        <tr><td>
-          <!-- CARD -->
-          <div>✅</div>
-          <strong>Advances and Challenges in Meta‑Learning: A Technical Review</strong><br>
-          <sub><em>Survey across few‑shot, transfer, domain shift, self‑supervision, federated/personalized, continual; open problems.</em></sub><br>
-          <a href="https://arxiv.org/pdf/2307.04722" target="_blank" rel="noopener">
-            <img alt="Paper" src="https://img.shields.io/badge/Paper-Read-0969DA?style=for-the-badge">
-          </a>
-          <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20Advances%20and%20Challenges%20in%20Meta-Learning" target="_blank" rel="noopener">
-            <img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail">
-          </a>
-          <!-- /CARD -->
-        </td></tr>
-      </table>
-    </td>
-  </tr>
-  <!-- spacer row so borders never meet vertically -->
-  <tr><td colspan="3" height="20" align="center">&nbsp;</td></tr>
-</table>
-
-<!-- =============== ROW 2 =============== -->
-<table border="0" width="100%" cellspacing="0" cellpadding="0" role="presentation">
-  <tr>
-    <td width="50%" valign="top" align="left">
-      <table border="1" width="100%" cellpadding="16" cellspacing="0" role="presentation">
-        <tr><td>
-          <div>✅</div>
-          <strong>Advances in Deep Learning for Tuberculosis Screening using Chest X‑rays: The Last 5 Years Review</strong><br>
-          <sub><em>Five‑year review of DL for TB CXR screening: datasets, methods, ROI localization, and challenges.</em></sub><br>
-          <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9568934/" target="_blank" rel="noopener">
-            <img alt="Paper" src="https://img.shields.io/badge/Paper-Read-0969DA?style=for-the-badge">
-          </a>
-          <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20TB%20CXR%20Review" target="_blank" rel="noopener">
-            <img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail">
-          </a>
-        </td></tr>
-      </table>
-    </td>
-
-    <td width="24" align="center">&nbsp;</td>
-
-    <td width="50%" valign="top" align="left">
-      <table border="1" width="100%" cellpadding="16" cellspacing="0" role="presentation">
-        <tr><td>
-          <div>✅</div>
-          <strong>Guest Editorial: Multimodal Learning in Medical Imaging Informatics</strong><br>
-          <sub><em>Integrating heterogeneous clinical data (images, EHR, sensors, reports) for robust decision support.</em></sub><br>
-          <a href="https://doi.org/10.1109/JBHI.2023.3241369" target="_blank" rel="noopener">
-            <img alt="Paper" src="https://img.shields.io/badge/Paper-Read-0969DA?style=for-the-badge">
-          </a>
-          <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20Multimodal%20Learning%20Editorial" target="_blank" rel="noopener">
-            <img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail">
-          </a>
-        </td></tr>
-      </table>
-    </td>
-  </tr>
-  <tr><td colspan="3" height="20" align="center">&nbsp;</td></tr>
-</table>
-
-<!-- =============== ROW 3 (duplicate pattern for the rest) =============== -->
-<table border="0" width="100%" cellspacing="0" cellpadding="0" role="presentation">
-  <tr>
-    <td width="50%" valign="top" align="left">
-      <table border="1" width="100%" cellpadding="16" cellspacing="0" role="presentation">
-        <tr><td>
-          <div>✅</div>
-          <strong>Cervical cancerous cell classification: opposition‑based harmony search for deep feature selection</strong><br>
-          <sub><em>CNN features + opposition‑based harmony search; strong results on Pap smear &amp; liquid‑based cytology.</em></sub><br>
-          <a href="https://link.springer.com/article/10.1007/s13042-023-01872-z" target="_blank" rel="noopener">
-            <img alt="Paper" src="https://img.shields.io/badge/Paper-Read-0969DA?style=for-the-badge">
-          </a>
-          <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20Cervical%20O-bHSA" target="_blank" rel="noopener">
-            <img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail">
-          </a>
-        </td></tr>
-      </table>
-    </td>
-
-    <td width="24" align="center">&nbsp;</td>
-
-    <td width="50%" valign="top" align="left">
-      <table border="0" width="100%" cellpadding="16" cellspacing="1" role="presentation">
-        <tr>
-        <td>
-          <div>✅</div>
-          <strong>SecureFed: federated learning for lung abnormality analysis in chest X‑rays</strong><br>
-          <sub><em>Secure aggregation for FL; robustness and fairness vs FedAvg/FedMGDA+/FedRAD on COVID‑19 CXRs.</em></sub><br>
-          <a href="https://www.ai-research-lab.org/publication" target="_blank" rel="noopener">
-            <img alt="Paper" src="https://img.shields.io/badge/Paper-Read-0969DA?style=for-the-badge">
-          </a>
-          <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20SecureFed" target="_blank" rel="noopener">
-            <img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail">
-          </a>
-        </td></tr>
-      </table>
-    </td>
-  </tr>
-  <tr><td colspan="3" height="20" align="center">&nbsp;</td></tr>
-</table>
-
-<!-- Continue duplicating rows for the rest of your items (same pattern) -->
 
 
-<table>
+
   <tr>
     <td width="50%">
       <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
@@ -279,7 +149,7 @@
       <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
     </td>
   </tr>
-</table>
+
 
 
 
