@@ -1,4 +1,3 @@
-
 <!-- ### Advancing AI innovation with sustainability at its core -->
 <!-- ### Powering AI innovation from the heart of the Rushmore State -->
 <!-- ### Where Coyotes howl and AI innovation powers sustainable futures -->
@@ -23,16 +22,12 @@
 </div>
 
 
-<!--<p align="left">
-  <img alt="Open Science" src="https://img.shields.io/badge/Open%20Science-%E2%9C%93-informational">
-  <img alt="Reproducible" src="https://img.shields.io/badge/Reproducible-%E2%9C%93-success">
-  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-blue">
-</p>-->
+
 We advance foundational AI and machine learning with a focus on sustainable, green computing to ensure efficiency and minimize carbon impact. Our interdisciplinary research spans computer vision, data mining, pattern recognition, and big data, impacting fields like healthcare, biometrics, forensics, speech, and IoT.
 Join us as we drive AI innovation with sustainability at its core!
 
 <!-- --------------  Papers-with-Code Card  -------------- -->
-<div align="center">
+<div align="left">
 
 [![ Papers with Code](https://custom-icon-badges.demolab.com/badge/_Papers_with_Code-000?style=for-the-badge&logo=paperswithcode&logoColor=white&labelColor=0d1117)](https://github.com/USD-AI-ResearchLab/.github/blob/main/profile/Paper_with_code.md)
   
