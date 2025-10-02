@@ -33,11 +33,16 @@ Our research spans green computing, active learning, and scalable as well as rob
 We specialize in areas such as pattern recognition, computer vision, image processing, data mining, and big data analytics. Our interdisciplinary work impacts domains including healthcare informatics, medical imaging, document analysis, biometrics, forensics, speech processing, and the Internet of Things.
 Join us as we drive AI innovation with sustainability at its core!
 
-<div align="left">
-  <p>
-    <a href="Paper_with_code.md" style="text-decoration: none;"><strong>Paper with Code</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </p>
+<!-- --------------  Papers-with-Code Card  -------------- -->
+<div align="center">
+
+[![🧑‍💻 Papers with Code](https://custom-icon-badges.demolab.com/badge/🧑‍💻_Papers_with_Code-000?style=for-the-badge&logo=paperswithcode&logoColor=white&labelColor=0d1117)](https://github.com/USD-AI-ResearchLab/papers-with-code)
+  
+🔬 **Reproducible research** | 📦 Ready-to-run notebooks | 🌱 Sustainable AI  
+[Browse the collection »](https://github.com/USD-AI-ResearchLab/papers-with-code)
+
 </div>
+<!-- ------------------------------------------------------ -->
 
 <!--### Research Overview
 We design **reliable, transparent, and deployable AI** by pairing solid theory with field-tested engineering. Our work spans core ML and domain problems in health, environment, and mobility—always with **ethics** and **reproducibility** at the core.
