@@ -28,9 +28,7 @@
   <img alt="Reproducible" src="https://img.shields.io/badge/Reproducible-%E2%9C%93-success">
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-blue">
 </p>-->
-We are excited to have you explore our work, where we push the boundaries of foundational AI and machine learning while embracing sustainable AI solutions.
-Our research spans green computing, active learning, and scalable as well as robust AI solutions, ensuring efficiency while saying no to carbon footprint.
-We specialize in areas such as pattern recognition, computer vision, image processing, data mining, and big data analytics. Our interdisciplinary work impacts domains including healthcare informatics, medical imaging, document analysis, biometrics, forensics, speech processing, and the Internet of Things.
+We advance foundational AI and machine learning with a focus on sustainable, green computing to ensure efficiency and minimize carbon impact. Our interdisciplinary research spans computer vision, data mining, pattern recognition, and big data, impacting fields like healthcare, biometrics, forensics, speech, and IoT.
 Join us as we drive AI innovation with sustainability at its core!
 
 <!-- --------------  Papers-with-Code Card  -------------- -->
