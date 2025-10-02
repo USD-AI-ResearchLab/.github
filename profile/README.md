@@ -129,4 +129,30 @@ Browse the index → [`archives.md`](./archives.md)
 - **Social:** Add links to X/Twitter, LinkedIn, Mastodon, YouTube in the lab website footer and `people.md`.
 
 ---
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
