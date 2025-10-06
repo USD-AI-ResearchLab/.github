@@ -26,9 +26,10 @@
 We advance foundational AI and machine learning with a focus on sustainable, green computing to ensure efficiency and minimize carbon impact. Our interdisciplinary research spans computer vision, data mining, pattern recognition, and big data, impacting fields like healthcare, biometrics, forensics, speech, and IoT.
 Join us as we drive AI innovation with sustainability at its core!
 
-<!-- --------------  Papers-with-Code Card  -------------- -->
 
 
+ Papers-with-Code 
+-------
 
 
   <tr>
