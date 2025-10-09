@@ -200,21 +200,15 @@ Join us as we drive AI innovation with sustainability at its core!
     </td>
   </tr>
 
-  <tr>
-    <td>
-      <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-      <strong>SegFast‑V2: Semantic image segmentation with fewer parameters</strong><br>
-      <sub><em>Compact encoder‑decoder with kernel factorization &amp; depthwise deconvs; CPU‑friendly yet competitive.</em></sub><br>
-      <a href="https://link.springer.com/article/10.1007/s13042-019-00906-2"><img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge"></a>
-      <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20COVID-19%20Imaging%20Tools%20(Big%20Data)"><img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail"></a>
-      <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-    </td>
-    <td>
-      <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-      <!-- empty cell reserved for future items -->
-      <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-    </td>
-  </tr>
+<td>
+  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
+  <strong>SegFast‑V2: Semantic image segmentation with fewer parameters</strong><br>
+  <sub><em>Compact encoder‑decoder with kernel factorization &amp; depthwise deconvs; CPU‑friendly yet competitive.</em></sub><br>
+  <a href="https://link.springer.com/article/10.1007/s13042-019-00906-2"><img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge"></a>
+  <a href="https://github.com/DVLP-CMATERJU/SegFast"><img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github"></a>
+  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
+</td>
+
 
 </div>
 <br><br>
