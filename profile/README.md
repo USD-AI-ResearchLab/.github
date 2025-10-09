@@ -31,7 +31,41 @@ Join us as we drive AI innovation with sustainability at its core!
 
  Papers-with-Code 
 -------
+<tr>
+  <td width="50%">
+    <p align="center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
+        <rect width="100%" height="4" fill="#ffffff"/>
+      </svg>
+    </p>
+    <strong>DeepWhaleNet: Climate Change‑aware FFT‑based Deep Neural Network for Passive Acoustic Monitoring</strong><br>
+    <sub><em>FFT‑based DNN for passive acoustic whale‑call detection with climate‑aware considerations; built for UPAM workflows.</em></sub><br>
+    <!-- Paper (DOI) -->
+    <a href="https://www.worldscientific.com/doi/10.1142/S0218001424590146">
+      <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
+    </a>
+    <!-- Code (GitHub) -->
+    <a href="https://github.com/USD-AI-ResearchLab/DeepWhaleNet">
+      <img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
+    </a>
+    <p align="center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
+        <rect width="100%" height="4" fill="#ffffff"/>
+      </svg>
+    </p>
+  </td>
 
+  <!-- If you want to pair it with another item in the row, put that item in this 2nd <td>. 
+       Otherwise you can remove this <td> or keep it as a spacer. -->
+  <td width="50%">
+    <!-- (optional) place another paper card here -->
+    <p align="center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
+        <rect width="100%" height="4" fill="#ffffff"/>
+      </svg>
+    </p>
+  </td>
+</tr>
 
   <tr>
     <td width="50%">
