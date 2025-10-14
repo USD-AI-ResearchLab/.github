@@ -31,23 +31,31 @@ Join us as we drive AI innovation with sustainability at its core!
 
  Papers-with-Code 
 -------
+
+<!-- ------------------------------------------------------ -->
+
+<!-- Papers-with-Code -->
+<!-- ------------------------------------------------------ -->
+<!-- Keep your look: white SVG separators, badge styling, same titles/subtitles -->
+
 <td>
   <p align="center">
     <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg>
   </p>
 
   <strong>Winsor‑CAM: Human‑Tunable Visual Explanations from Deep Networks via Layer‑Wise Winsorization</strong><br>
-  <sub><em>Human‑tunable Grad‑CAM variant that aggregates attributions across all conv layers and applies percentile‑based winsorization to suppress outliers, yielding more robust, coherent saliency maps.</em></sub><br>
+  <sub><em>Human‑tunable Grad‑CAM variant aggregating attributions across all conv layers; winsorization suppresses outliers for robust, coherent saliency maps.</em></sub><br>
 
   <!-- Paper -->
   <a href="https://arxiv.org/abs/2507.10846">
     <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
 
-  <!-- Code -->
+  <!-- Code (lab repo; may be private/unpublished yet) -->
   <a href="https://github.com/USD-AI-ResearchLab/Winsor-CAM-demo">
-    <img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
+    <img alt="Code (lab repo)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
   </a>
+  <!-- NOTE: If this 404s, it’s likely private; leave as is for now to preserve look -->
 
   <p align="center">
     <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg>
@@ -62,10 +70,12 @@ Join us as we drive AI innovation with sustainability at its core!
       </svg>
     </p>
     <strong>DeepWhaleNet: Climate Change‑aware FFT‑based Deep Neural Network for Passive Acoustic Monitoring</strong><br>
-    <sub><em>FFT‑based DNN for whale‑call detection with climate‑aware considerations; built for UPAM workflows.</em></sub><br>
+    <sub><em>FFT‑based DNN for passive acoustic whale‑call detection with climate‑aware considerations; built for UPAM workflows.</em></sub><br>
+    <!-- Paper (DOI) -->
     <a href="https://www.worldscientific.com/doi/10.1142/S0218001424590146">
       <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
     </a>
+    <!-- Code (GitHub) -->
     <a href="https://github.com/USD-AI-ResearchLab/DeepWhaleNet">
       <img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
     </a>
@@ -76,7 +86,7 @@ Join us as we drive AI innovation with sustainability at its core!
     </p>
   </td>
 
-  <!-- spacer / optional paired item -->
+  <!-- spacer / optional paired card -->
   <td width="50%">
     <p align="center">
       <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
@@ -90,11 +100,12 @@ Join us as we drive AI innovation with sustainability at its core!
   <td width="50%">
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
     <strong>Non‑Uniform Illumination Attack for Fooling Convolutional Neural Networks</strong><br>
-    <sub><em>NUI masks degrade CNNs; defense via NUI‑augmented training across CIFAR‑10, TinyImageNet, Caltech‑256.</em></sub><br>
+    <sub><em>NUI masks degrade CNNs; simple defense via NUI‑augmented training across CIFAR‑10, TinyImageNet, Caltech‑256.</em></sub><br>
     <a href="https://arxiv.org/abs/2409.03458"><img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge"></a>
     <a href="https://github.com/Akshayjain97/Non-Uniform_Illumination"><img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github"></a>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
   </td>
+
   <td width="50%">
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
     <strong>Advances and Challenges in Meta‑Learning: A Technical Review</strong><br>
@@ -114,6 +125,7 @@ Join us as we drive AI innovation with sustainability at its core!
     <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20TB%20CXR%20Review"><img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail"></a>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
   </td>
+
   <td>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
     <strong>Guest Editorial: Multimodal Learning in Medical Imaging Informatics</strong><br>
@@ -130,10 +142,10 @@ Join us as we drive AI innovation with sustainability at its core!
     <strong>Cervical cancerous cell classification: opposition‑based harmony search for deep feature selection</strong><br>
     <sub><em>CNN features + opposition‑based harmony search; strong results on Pap smear &amp; liquid‑based cytology.</em></sub><br>
     <a href="https://link.springer.com/article/10.1007/s13042-023-01872-z"><img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge"></a>
-    <!-- OFFICIAL CODE BY AUTHORS' LAB -->
-    <a href="https://github.com/DVLP-CMATERJU/OBHS_DeepfeatureSelection"><img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github"></a>
+    <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20Cervical%20O-bHSA"><img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail"></a>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
   </td>
+
   <td>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
     <strong>SecureFed: federated learning for lung abnormality analysis in chest X‑rays</strong><br>
@@ -148,17 +160,18 @@ Join us as we drive AI innovation with sustainability at its core!
   <td>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
     <strong>AI tools for assessing human fertility using risk factors: a state‑of‑the‑art review</strong><br>
-    <sub><em>Systematic review of 42 studies; augmentation, features, explainability for fertility‑risk analysis.</em></sub><br>
+    <sub><em>Systematic review of 42 studies; highlights augmentation, features, explainability for fertility‑risk analysis.</em></sub><br>
     <a href="https://link.springer.com/article/10.1007/s10916-023-01983-8"><img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge"></a>
     <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20Fertility%20Risk%20Factors%20Review"><img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail"></a>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
   </td>
+
   <td>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
     <strong>Hybrid approach for text categorization: Bangla news</strong><br>
     <sub><em>Hybrid text+graph features on 14,373 Bangla articles; Naïve Bayes Multinomial; validated on English sets.</em></sub><br>
     <a href="https://digitalcommons.isical.ac.in/journal-articles/3686/"><img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge"></a>
-    <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20Bangla%20Hybrid%20Text%20Categorization"><img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail"></img></a>
+    <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20Bangla%20Hybrid%20Text%20Categorization"><img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail"></a>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
   </td>
 </tr>
@@ -172,6 +185,7 @@ Join us as we drive AI innovation with sustainability at its core!
     <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20ARES%20Clustering%20Preprocessing"><img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail"></a>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
   </td>
+
   <td>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
     <strong>Investigation of DNA discontinuity for detecting tuberculosis</strong><br>
@@ -191,6 +205,7 @@ Join us as we drive AI innovation with sustainability at its core!
     <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20LIFA%20(LPCC-G)"><img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail"></a>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
   </td>
+
   <td>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
     <strong>Male fertility detection on skewed data with sampling + ensembles</strong><br>
@@ -205,7 +220,7 @@ Join us as we drive AI innovation with sustainability at its core!
   <td>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
     <strong>Shallow CNN for COVID‑19 outbreak screening using chest X‑rays</strong><br>
-    <sub><em>Lightweight CNN; very low false positives; 5‑fold CV.</em></sub><br>
+    <sub><em>Lightweight CNN achieves 99.69% accuracy and AUC 0.9995; very low false positives; 5‑fold CV.</em></sub><br>
     <a href="https://www.ai-research-lab.org/publication"><img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge"></a>
     <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20Shallow%20CNN%20for%20COVID-19%20CXR"><img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail"></a>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
@@ -218,7 +233,10 @@ Join us as we drive AI innovation with sustainability at its core!
     <strong>Covid‑19 Imaging Tools: How Big Data is Big?</strong><br>
     <sub><em>Dataset size, augmentation, transfer learning, and model‑fit caveats for COVID‑19 imaging tools.</em></sub><br>
     <a href="https://link.springer.com/article/10.1007/s10916-021-01747-2"><img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge"></a>
-    <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20COVID-19%20Imaging%20Tools%20(Big%20Data)"><img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail"></a>
+    <!-- Related code: widely used author repo aligned with this domain -->
+    <a href="https://github.com/lindawangg/COVID-Net">
+      <img alt="Code: COVID‑Net" src="https://img.shields.io/badge/Related%20code-GitHub-0969DA?style=for-the-badge&logo=github">
+    </a>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
   </td>
 </tr>
@@ -231,9 +249,9 @@ Join us as we drive AI innovation with sustainability at its core!
   <a href="https://github.com/DVLP-CMATERJU/SegFast"><img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github"></a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
-
 <!-- ------------------------------------------------------ -->
----
+
+
 
 
 
