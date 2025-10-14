@@ -137,14 +137,16 @@ Join us as we drive AI innovation with sustainability at its core!
 </tr>
 
 <tr>
-  <td>
+  <td width="50%">
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
     <strong>Cervical cancerous cell classification: opposition‑based harmony search for deep feature selection</strong><br>
-    <sub><em>CNN features + opposition‑based harmony search; strong results on Pap smear &amp; liquid‑based cytology.</em></sub><br>
+    <sub><em>CNN features + opposition‑based harmony search; Pap smear & liquid‑based cytology.</em></sub><br>
     <a href="https://link.springer.com/article/10.1007/s13042-023-01872-z"><img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge"></a>
-    <a href="mailto:contact@ai-research-lab.org?subject=Request%20code%3A%20Cervical%20O-bHSA"><img alt="Request code" src="https://img.shields.io/badge/Request%20code-Email-6e7781?style=for-the-badge&logo=gmail"></a>
+    <!-- Author-lab code (DVLP @ JU) -->
+    <a href="https://github.com/DVLP-CMATERJU/OBHS_DeepfeatureSelection"><img alt="Code (author lab)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github"></a>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
   </td>
+
 
   <td>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
@@ -250,6 +252,7 @@ Join us as we drive AI innovation with sustainability at its core!
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
 <!-- ------------------------------------------------------ -->
+
 
 
 
