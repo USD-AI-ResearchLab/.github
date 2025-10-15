@@ -143,7 +143,7 @@ Join us as we drive AI innovation with sustainability at its core!
     <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging">
-    <img alt="Code (Resources, UNOFFICIAL)" src="https://img.shields.io/badge/Code-GitHub0969DA?style=for-the-badge&logo=github">
+    <img alt="Code (Resources, UNOFFICIAL)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
   </a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
