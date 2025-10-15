@@ -112,10 +112,10 @@ Join us as we drive AI innovation with sustainability at its core!
   <strong>Advances and Challenges in Meta-Learning: A Technical Review</strong><br>
   <sub><em>Survey across few-shot, transfer, domain shift, self-supervision, federated/personalized, continual; open problems.</em></sub><br>
   <a href="https://arxiv.org/abs/2307.04722">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-0969DA?style=for-the-badge">
+    <img alt="Paper" src="https://img.shields.io/badge/Paper0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/learnables/learn2learn">
-    <img alt="Code (library covering the surveyed methods)" src="https://img.shields.io/badge/Code-learn2learn-0969DA?style=for-the-badge&logo=github">
+    <img alt="Code (library covering the surveyed methods)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
   </a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
@@ -126,7 +126,7 @@ Join us as we drive AI innovation with sustainability at its core!
   <strong>Advances in Deep Learning for Tuberculosis Screening using Chest X-rays: The Last 5 Years Review</strong><br>
   <sub><em>Five-year review of DL for TB CXR screening: datasets, methods, ROI localization, and challenges.</em></sub><br>
   <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9568934/">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-PMC-0969DA?style=for-the-badge">
+    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/mlmed/torchxrayvision">
     <img alt="Code (Unofficial—but standard CXR baseline)" src="https://img.shields.io/badge/Code-TorchXRayVision%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
@@ -154,7 +154,7 @@ Join us as we drive AI innovation with sustainability at its core!
   <strong>Cervical cancerous cell classification: opposition-based harmony search for deep feature selection</strong><br>
   <sub><em>CNN features + opposition-based harmony search; Pap smear &amp; liquid-based cytology.</em></sub><br>
   <a href="https://link.springer.com/article/10.1007/s13042-023-01872-z">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-Springer-0969DA?style=for-the-badge">
+    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/DVLP-CMATERJU/OBHS_DeepfeatureSelection">
     <img alt="Code (Author Lab)" src="https://img.shields.io/badge/Code-GitHub%20(author%20lab)-0969DA?style=for-the-badge&logo=github">
@@ -168,7 +168,7 @@ Join us as we drive AI innovation with sustainability at its core!
   <strong>SecureFed: federated learning for lung abnormality analysis in chest X-rays</strong><br>
   <sub><em>Secure aggregation for FL; robustness &amp; fairness vs FedAvg/FedMGDA+/FedRAD on COVID-19 CXRs.</em></sub><br>
   <a href="https://link.springer.com/article/10.1007/s13042-023-01789-7">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-Springer-0969DA?style=for-the-badge">
+    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/SanoScience/CXR-FL">
     <img alt="Code (Closest open impl., UNOFFICIAL)" src="https://img.shields.io/badge/Code-CXR--FL%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
@@ -182,7 +182,7 @@ Join us as we drive AI innovation with sustainability at its core!
   <strong>AI tools for assessing human fertility using risk factors: a state-of-the-art review</strong><br>
   <sub><em>Systematic review of 42 studies; augmentation, features, explainability for fertility-risk analysis.</em></sub><br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/37610455/">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-PubMed-0969DA?style=for-the-badge">
+    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/delestro/openfertility">
     <img alt="Code (Closest open impl., UNOFFICIAL)" src="https://img.shields.io/badge/Code-OpenFertility%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
@@ -196,7 +196,7 @@ Join us as we drive AI innovation with sustainability at its core!
   <strong>Hybrid approach for text categorization: Bangla news</strong><br>
   <sub><em>Hybrid text+graph features on 14,373 Bangla articles; Naïve Bayes Multinomial; validated on English sets.</em></sub><br>
   <a href="https://dl.acm.org/doi/10.1177/01655515211027770">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-Journal%20of%20Information%20Science-0969DA?style=for-the-badge">
+    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/NuhashHaque/Bangla-TextClassification-Analysis-EDA-and-Models">
     <img alt="Code (Closest open impl., UNOFFICIAL)" src="https://img.shields.io/badge/Code-Bangla%20News%20CLS%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
@@ -210,7 +210,7 @@ Join us as we drive AI innovation with sustainability at its core!
   <strong>Scale-invariant preprocessing (ARES) to detect clusters of varying densities</strong><br>
   <sub><em>ARES rank transform enables KMeans/DBSCAN/Density-Peak to recover varying-density clusters more reliably.</em></sub><br>
   <a href="https://arxiv.org/abs/2401.11402">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-0969DA?style=for-the-badge">
+    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/scikit-learn-contrib/hdbscan">
     <img alt="Code (Analogous varying-density clustering, UNOFFICIAL)" src="https://img.shields.io/badge/Code-HDBSCAN%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
@@ -224,7 +224,7 @@ Join us as we drive AI innovation with sustainability at its core!
   <strong>Investigation of DNA discontinuity for detecting tuberculosis</strong><br>
   <sub><em>DNN + HMM pipeline on NCBI sequences; speed and accuracy gains.</em></sub><br>
   <a href="https://www.researchgate.net/publication/325272704_Investigation_of_DNA_Discontinuity_for_Detecting_Tuberculosis">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-ResearchGate-0969DA?style=for-the-badge">
+    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/hmmlearn/hmmlearn">
     <img alt="Code (HMM toolkit, UNOFFICIAL)" src="https://img.shields.io/badge/Code-hmmlearn%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
@@ -238,7 +238,7 @@ Join us as we drive AI innovation with sustainability at its core!
   <strong>LIFA: Language identification from audio with LPCC-G features</strong><br>
   <sub><em>LPCC-G + Random Forest across 11 Indian languages (&gt;2,200 hours); robust under noise.</em></sub><br>
   <a href="https://link.springer.com/article/10.1007/s11042-023-17782-9">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-Springer-0969DA?style=for-the-badge">
+    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/SpeechFlow-io/Spoken_language_identification">
     <img alt="Code (Baseline LID, UNOFFICIAL)" src="https://img.shields.io/badge/Code-LID%20Baseline%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
@@ -252,7 +252,7 @@ Join us as we drive AI innovation with sustainability at its core!
   <strong>Male fertility detection on skewed data with sampling + ensembles</strong><br>
   <sub><em>14 re-sampling schemes; best LightGBM + SMOTE-ENN; strong CatBoost baseline.</em></sub><br>
   <a href="https://www.worldscientific.com/doi/abs/10.1142/S0218001424510033">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-WorldScientific-0969DA?style=for-the-badge">
+    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/scikit-learn-contrib/imbalanced-learn">
     <img alt="Code (Toolkit for the samplers)" src="https://img.shields.io/badge/Code-imbalanced--learn-0969DA?style=for-the-badge&logo=github">
@@ -266,7 +266,7 @@ Join us as we drive AI innovation with sustainability at its core!
   <strong>Shallow CNN for COVID-19 outbreak screening using chest X-rays</strong><br>
   <sub><em>Lightweight CNN; 5-fold CV; reported Acc 99.69% / AUC 0.9995.</em></sub><br>
   <a href="https://pubmed.ncbi.nlm.nih.gov/33564340/">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-PubMed-0969DA?style=for-the-badge">
+    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/rabia174/COVID-19-Deep-Learning-CNN-Model">
     <img alt="Code (Closest open impl., UNOFFICIAL)" src="https://img.shields.io/badge/Code-Shallow%20CNN%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
