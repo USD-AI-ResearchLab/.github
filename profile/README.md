@@ -140,7 +140,7 @@ Join us as we drive AI innovation with sustainability at its core!
   <strong>Guest Editorial: Multimodal Learning in Medical Imaging Informatics</strong><br>
   <sub><em>Integrating heterogeneous clinical data (images, EHR, sensors, reports) for robust decision support.</em></sub><br>
   <a href="https://doi.org/10.1109/JBHI.2023.3241369">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-IEEE%20JBHI-0969DA?style=for-the-badge">
+    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging">
     <img alt="Code (Resources, UNOFFICIAL)" src="https://img.shields.io/badge/Code-Awesome%20Multimodal%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
