@@ -129,7 +129,7 @@ Join us as we drive AI innovation with sustainability at its core!
     <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/mlmed/torchxrayvision">
-    <img alt="Code (Unofficial—but standard CXR baseline)" src="https://img.shields.io/badge/Code-TorchXRayVision%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
+    <img alt="Code (Unofficial—but standard CXR baseline)" src="https://img.shields.io/badge/Code-GitHub -0969DA?style=for-the-badge&logo=github">
   </a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
@@ -143,7 +143,7 @@ Join us as we drive AI innovation with sustainability at its core!
     <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging">
-    <img alt="Code (Resources, UNOFFICIAL)" src="https://img.shields.io/badge/Code-Awesome%20Multimodal%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
+    <img alt="Code (Resources, UNOFFICIAL)" src="https://img.shields.io/badge/Code-GitHub0969DA?style=for-the-badge&logo=github">
   </a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
@@ -157,7 +157,7 @@ Join us as we drive AI innovation with sustainability at its core!
     <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/DVLP-CMATERJU/OBHS_DeepfeatureSelection">
-    <img alt="Code (Author Lab)" src="https://img.shields.io/badge/Code-GitHub%20(author%20lab)-0969DA?style=for-the-badge&logo=github">
+    <img alt="Code (Author Lab)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
   </a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
@@ -171,7 +171,7 @@ Join us as we drive AI innovation with sustainability at its core!
     <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/SanoScience/CXR-FL">
-    <img alt="Code (Closest open impl., UNOFFICIAL)" src="https://img.shields.io/badge/Code-CXR--FL%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
+    <img alt="Code (Closest open impl., UNOFFICIAL)" src="https://img.shields.io/badge/Code- GitHub-0969DA?style=for-the-badge&logo=github">
   </a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
@@ -185,7 +185,7 @@ Join us as we drive AI innovation with sustainability at its core!
     <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/delestro/openfertility">
-    <img alt="Code (Closest open impl., UNOFFICIAL)" src="https://img.shields.io/badge/Code-OpenFertility%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
+    <img alt="Code (Closest open impl., UNOFFICIAL)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
   </a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
@@ -199,7 +199,7 @@ Join us as we drive AI innovation with sustainability at its core!
     <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/NuhashHaque/Bangla-TextClassification-Analysis-EDA-and-Models">
-    <img alt="Code (Closest open impl., UNOFFICIAL)" src="https://img.shields.io/badge/Code-Bangla%20News%20CLS%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
+    <img alt="Code (Closest open impl., UNOFFICIAL)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
   </a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
@@ -213,7 +213,7 @@ Join us as we drive AI innovation with sustainability at its core!
     <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/scikit-learn-contrib/hdbscan">
-    <img alt="Code (Analogous varying-density clustering, UNOFFICIAL)" src="https://img.shields.io/badge/Code-HDBSCAN%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
+    <img alt="Code (Analogous varying-density clustering, UNOFFICIAL)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
   </a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
@@ -227,7 +227,7 @@ Join us as we drive AI innovation with sustainability at its core!
     <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/hmmlearn/hmmlearn">
-    <img alt="Code (HMM toolkit, UNOFFICIAL)" src="https://img.shields.io/badge/Code-hmmlearn%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
+    <img alt="Code (HMM toolkit, UNOFFICIAL)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
   </a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
@@ -241,7 +241,7 @@ Join us as we drive AI innovation with sustainability at its core!
     <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/SpeechFlow-io/Spoken_language_identification">
-    <img alt="Code (Baseline LID, UNOFFICIAL)" src="https://img.shields.io/badge/Code-LID%20Baseline%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
+    <img alt="Code (Baseline LID, UNOFFICIAL)" src="https://img.shields.io/badge/Code- GitHub-0969DA?style=for-the-badge&logo=github">
   </a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
@@ -255,7 +255,7 @@ Join us as we drive AI innovation with sustainability at its core!
     <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/scikit-learn-contrib/imbalanced-learn">
-    <img alt="Code (Toolkit for the samplers)" src="https://img.shields.io/badge/Code-imbalanced--learn-0969DA?style=for-the-badge&logo=github">
+    <img alt="Code (Toolkit for the samplers)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
   </a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
@@ -269,7 +269,7 @@ Join us as we drive AI innovation with sustainability at its core!
     <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/rabia174/COVID-19-Deep-Learning-CNN-Model">
-    <img alt="Code (Closest open impl., UNOFFICIAL)" src="https://img.shields.io/badge/Code-Shallow%20CNN%20(UNOFFICIAL)-0969DA?style=for-the-badge&logo=github">
+    <img alt="Code (Closest open impl., UNOFFICIAL)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
   </a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
