@@ -112,7 +112,7 @@ Join us as we drive AI innovation with sustainability at its core!
   <strong>Advances and Challenges in Meta-Learning: A Technical Review</strong><br>
   <sub><em>Survey across few-shot, transfer, domain shift, self-supervision, federated/personalized, continual; open problems.</em></sub><br>
   <a href="https://arxiv.org/abs/2307.04722">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper0969DA?style=for-the-badge">
+    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
   </a>
   <a href="https://github.com/learnables/learn2learn">
     <img alt="Code (library covering the surveyed methods)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
