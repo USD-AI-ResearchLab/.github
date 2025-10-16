@@ -38,7 +38,7 @@ Join us as we drive AI innovation with sustainability at its core!
 <!-- ------------------------------------------------------ -->
 <!-- Keep your look: white SVG separators, badge styling, same titles/subtitles -->
 
-<td>
+<!-- <td>
   <p align="center">
     <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg>
   </p>
@@ -60,7 +60,7 @@ Join us as we drive AI innovation with sustainability at its core!
   <p align="center">
     <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg>
   </p>
-</td>
+</td> -->
 
 <tr>
   <td width="50%">
