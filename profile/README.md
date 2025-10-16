@@ -84,62 +84,6 @@ Join us as we drive AI innovation with sustainability at its core!
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
   </td>
 
-<!-- Advances and Challenges in Meta-Learning: A Technical Review -->
-<td>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-  <strong>Advances and Challenges in Meta-Learning: A Technical Review</strong><br>
-  <sub><em>Survey across few-shot, transfer, domain shift, self-supervision, federated/personalized, continual; open problems.</em></sub><br>
-  <a href="https://arxiv.org/abs/2307.04722">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
-  </a>
-  <a href="https://github.com/learnables/learn2learn">
-    <img alt="Code (library covering the surveyed methods)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
-  </a>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-</td>
-
-<!-- Advances in Deep Learning for Tuberculosis Screening using Chest X-rays: The Last 5 Years Review -->
-<td>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-  <strong>Advances in Deep Learning for Tuberculosis Screening using Chest X-rays: The Last 5 Years Review</strong><br>
-  <sub><em>Five-year review of DL for TB CXR screening: datasets, methods, ROI localization, and challenges.</em></sub><br>
-  <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9568934/">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
-  </a>
-  <a href="https://github.com/mlmed/torchxrayvision">
-    <img alt="Code (Unofficial—but standard CXR baseline)" src="https://img.shields.io/badge/Code-GitHub -0969DA?style=for-the-badge&logo=github">
-  </a>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-</td>
-
-<!-- Guest Editorial: Multimodal Learning in Medical Imaging Informatics -->
-<td>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-  <strong>Guest Editorial: Multimodal Learning in Medical Imaging Informatics</strong><br>
-  <sub><em>Integrating heterogeneous clinical data (images, EHR, sensors, reports) for robust decision support.</em></sub><br>
-  <a href="https://doi.org/10.1109/JBHI.2023.3241369">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
-  </a>
-  <a href="https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging">
-    <img alt="Code (Resources, UNOFFICIAL)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
-  </a>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-</td>
-
-<!-- Cervical cancerous cell classification: O-bHSA for deep feature selection -->
-<td>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-  <strong>Cervical cancerous cell classification: opposition-based harmony search for deep feature selection</strong><br>
-  <sub><em>CNN features + opposition-based harmony search; Pap smear &amp; liquid-based cytology.</em></sub><br>
-  <a href="https://link.springer.com/article/10.1007/s13042-023-01872-z">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
-  </a>
-  <a href="https://github.com/DVLP-CMATERJU/OBHS_DeepfeatureSelection">
-    <img alt="Code (Author Lab)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
-  </a>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-</td>
-
 <!-- SecureFed -->
 <td>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
@@ -153,106 +97,7 @@ Join us as we drive AI innovation with sustainability at its core!
   </a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
 </td>
-
-<!-- AI tools for assessing human fertility using risk factors -->
-<td>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-  <strong>AI tools for assessing human fertility using risk factors: a state-of-the-art review</strong><br>
-  <sub><em>Systematic review of 42 studies; augmentation, features, explainability for fertility-risk analysis.</em></sub><br>
-  <a href="https://pubmed.ncbi.nlm.nih.gov/37610455/">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
-  </a>
-  <a href="https://github.com/delestro/openfertility">
-    <img alt="Code (Closest open impl., UNOFFICIAL)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
-  </a>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-</td>
-
-<!-- Hybrid approach for text categorization: Bangla news -->
-<td>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-  <strong>Hybrid approach for text categorization: Bangla news</strong><br>
-  <sub><em>Hybrid text+graph features on 14,373 Bangla articles; Naïve Bayes Multinomial; validated on English sets.</em></sub><br>
-  <a href="https://dl.acm.org/doi/10.1177/01655515211027770">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
-  </a>
-  <a href="https://github.com/NuhashHaque/Bangla-TextClassification-Analysis-EDA-and-Models">
-    <img alt="Code (Closest open impl., UNOFFICIAL)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
-  </a>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-</td>
-
-<!-- Scale-invariant preprocessing (ARES) -->
-<td>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-  <strong>Scale-invariant preprocessing (ARES) to detect clusters of varying densities</strong><br>
-  <sub><em>ARES rank transform enables KMeans/DBSCAN/Density-Peak to recover varying-density clusters more reliably.</em></sub><br>
-  <a href="https://arxiv.org/abs/2401.11402">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
-  </a>
-  <a href="https://github.com/scikit-learn-contrib/hdbscan">
-    <img alt="Code (Analogous varying-density clustering, UNOFFICIAL)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
-  </a>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-</td>
-
-<!-- Investigation of DNA discontinuity for detecting tuberculosis -->
-<td>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-  <strong>Investigation of DNA discontinuity for detecting tuberculosis</strong><br>
-  <sub><em>DNN + HMM pipeline on NCBI sequences; speed and accuracy gains.</em></sub><br>
-  <a href="https://www.researchgate.net/publication/325272704_Investigation_of_DNA_Discontinuity_for_Detecting_Tuberculosis">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
-  </a>
-  <a href="https://github.com/hmmlearn/hmmlearn">
-    <img alt="Code (HMM toolkit, UNOFFICIAL)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
-  </a>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-</td>
-
-<!-- LIFA: Language identification from audio with LPCC-G features -->
-<td>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-  <strong>LIFA: Language identification from audio with LPCC-G features</strong><br>
-  <sub><em>LPCC-G + Random Forest across 11 Indian languages (&gt;2,200 hours); robust under noise.</em></sub><br>
-  <a href="https://link.springer.com/article/10.1007/s11042-023-17782-9">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
-  </a>
-  <a href="https://github.com/SpeechFlow-io/Spoken_language_identification">
-    <img alt="Code (Baseline LID, UNOFFICIAL)" src="https://img.shields.io/badge/Code- GitHub-0969DA?style=for-the-badge&logo=github">
-  </a>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-</td>
-
-<!-- Male fertility detection on skewed data with sampling + ensembles -->
-<td>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-  <strong>Male fertility detection on skewed data with sampling + ensembles</strong><br>
-  <sub><em>14 re-sampling schemes; best LightGBM + SMOTE-ENN; strong CatBoost baseline.</em></sub><br>
-  <a href="https://www.worldscientific.com/doi/abs/10.1142/S0218001424510033">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
-  </a>
-  <a href="https://github.com/scikit-learn-contrib/imbalanced-learn">
-    <img alt="Code (Toolkit for the samplers)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
-  </a>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-</td>
-
-<!-- Shallow CNN for COVID-19 outbreak screening using chest X-rays -->
-<td>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-  <strong>Shallow CNN for COVID-19 outbreak screening using chest X-rays</strong><br>
-  <sub><em>Lightweight CNN; 5-fold CV; reported Acc 99.69% / AUC 0.9995.</em></sub><br>
-  <a href="https://pubmed.ncbi.nlm.nih.gov/33564340/">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
-  </a>
-  <a href="https://github.com/rabia174/COVID-19-Deep-Learning-CNN-Model">
-    <img alt="Code (Closest open impl., UNOFFICIAL)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
-  </a>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-</td>
-
-
+<!-- covid-19 -->
 <tr>
   <td>
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
@@ -266,15 +111,17 @@ Join us as we drive AI innovation with sustainability at its core!
     <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
   </td>
 </tr>
-
-<td>
+<!-- SegFast‑V2:-->
+<tr>
+  <td>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
   <strong>SegFast‑V2: Semantic image segmentation with fewer parameters</strong><br>
   <sub><em>Compact encoder‑decoder with kernel factorization &amp; depthwise deconvs; CPU‑friendly yet competitive.</em></sub><br>
   <a href="https://link.springer.com/article/10.1007/s13042-019-00906-2"><img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge"></a>
   <a href="https://github.com/DVLP-CMATERJU/SegFast"><img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github"></a>
   <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-</td>
+  </td>
+</tr>
 <!-- ------------------------------------------------------ -->
 
 
