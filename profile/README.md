@@ -38,29 +38,7 @@ Join us as we drive AI innovation with sustainability at its core!
 <!-- ------------------------------------------------------ -->
 <!-- Keep your look: white SVG separators, badge styling, same titles/subtitles -->
 
-<!-- <td>
-  <p align="center">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg>
-  </p>
 
-  <strong>Winsor‑CAM: Human‑Tunable Visual Explanations from Deep Networks via Layer‑Wise Winsorization</strong><br>
-  <sub><em>Human‑tunable Grad‑CAM variant aggregating attributions across all conv layers; winsorization suppresses outliers for robust, coherent saliency maps.</em></sub><br>
-
-  <!-- Paper -->
-  <a href="https://arxiv.org/abs/2507.10846">
-    <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
-  </a>
-
-  <!-- Code (lab repo; may be private/unpublished yet) -->
-  <a href="https://github.com/USD-AI-ResearchLab/Winsor-CAM-demo">
-    <img alt="Code (lab repo)" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
-  </a>
-  <!-- NOTE: If this 404s, it’s likely private; leave as is for now to preserve look -->
-
-  <p align="center">
-    <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg>
-  </p>
-</td> -->
 
 <tr>
   <td width="50%">
