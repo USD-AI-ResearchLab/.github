@@ -38,7 +38,49 @@ Join us as we drive AI innovation with sustainability at its core!
 <!-- ------------------------------------------------------ -->
 <!-- Keep your look: white SVG separators, badge styling, same titles/subtitles -->
 
+<tr>
+  <td width="50%">
+    <p align="center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
+        <rect width="100%" height="4" fill="#ffffff"/>
+      </svg>
+    </p>
+    <strong>Winsor-CAM</strong><br>
+    <sub><em>Class activation mapping approach with winsorization for more stable and interpretable visual explanations.</em></sub><br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/11410545">
+      <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
+    </a>
+    <a href="https://github.com/USD-AI-ResearchLab/Winsor-CAM">
+      <img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
+    </a>
+    <p align="center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
+        <rect width="100%" height="4" fill="#ffffff"/>
+      </svg>
+    </p>
+  </td>
 
+  <td width="50%">
+    <p align="center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
+        <rect width="100%" height="4" fill="#ffffff"/>
+      </svg>
+    </p>
+    <strong>AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models</strong><br>
+    <sub><em>Carbon-aware evaluation framework for reporting model performance, energy consumption, and derived carbon emissions.</em></sub><br>
+    <a href="https://arxiv.org/abs/2602.16042">
+      <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
+    </a>
+    <a href="https://github.com/USD-AI-ResearchLab/ai-care">
+      <img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
+    </a>
+    <p align="center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
+        <rect width="100%" height="4" fill="#ffffff"/>
+      </svg>
+    </p>
+  </td>
+</tr>
 
 <tr>
   <td width="50%">
@@ -47,13 +89,11 @@ Join us as we drive AI innovation with sustainability at its core!
         <rect width="100%" height="4" fill="#ffffff"/>
       </svg>
     </p>
-    <strong>DeepWhaleNet: Climate Change‑aware FFT‑based Deep Neural Network for Passive Acoustic Monitoring</strong><br>
-    <sub><em>FFT‑based DNN for passive acoustic whale‑call detection with climate‑aware considerations; built for UPAM workflows.</em></sub><br>
-    <!-- Paper (DOI) -->
+    <strong>DeepWhaleNet: Climate Change-aware FFT-based Deep Neural Network for Passive Acoustic Monitoring</strong><br>
+    <sub><em>FFT-based DNN for passive acoustic whale-call detection with climate-aware considerations; built for UPAM workflows.</em></sub><br>
     <a href="https://www.worldscientific.com/doi/10.1142/S0218001424590146">
       <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
     </a>
-    <!-- Code (GitHub) -->
     <a href="https://github.com/USD-AI-ResearchLab/DeepWhaleNet">
       <img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
     </a>
@@ -64,8 +104,20 @@ Join us as we drive AI innovation with sustainability at its core!
     </p>
   </td>
 
-  <!-- spacer / optional paired card -->
   <td width="50%">
+    <p align="center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
+        <rect width="100%" height="4" fill="#ffffff"/>
+      </svg>
+    </p>
+    <strong>Non-Uniform Illumination Attack for Fooling Convolutional Neural Networks</strong><br>
+    <sub><em>NUI masks degrade CNNs; simple defense via NUI-augmented training across CIFAR-10, TinyImageNet, Caltech-256.</em></sub><br>
+    <a href="https://arxiv.org/abs/2409.03458">
+      <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
+    </a>
+    <a href="https://github.com/Akshayjain97/Non-Uniform_Illumination">
+      <img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
+    </a>
     <p align="center">
       <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
         <rect width="100%" height="4" fill="#ffffff"/>
@@ -76,31 +128,33 @@ Join us as we drive AI innovation with sustainability at its core!
 
 <tr>
   <td width="50%">
-    <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-    <strong>Non‑Uniform Illumination Attack for Fooling Convolutional Neural Networks</strong><br>
-    <sub><em>NUI masks degrade CNNs; simple defense via NUI‑augmented training across CIFAR‑10, TinyImageNet, Caltech‑256.</em></sub><br>
-    <a href="https://arxiv.org/abs/2409.03458"><img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge"></a>
-    <a href="https://github.com/Akshayjain97/Non-Uniform_Illumination"><img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github"></a>
-    <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
+    <p align="center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
+        <rect width="100%" height="4" fill="#ffffff"/>
+      </svg>
+    </p>
+    <strong>SegFast-V2: Semantic image segmentation with fewer parameters</strong><br>
+    <sub><em>Compact encoder-decoder with kernel factorization &amp; depthwise deconvs; CPU-friendly yet competitive.</em></sub><br>
+    <a href="https://link.springer.com/article/10.1007/s13042-019-00906-2">
+      <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
+    </a>
+    <a href="https://github.com/DVLP-CMATERJU/SegFast">
+      <img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
+    </a>
+    <p align="center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
+        <rect width="100%" height="4" fill="#ffffff"/>
+      </svg>
+    </p>
   </td>
 
-<!-- SegFast‑V2:-->
-<tr>
-  <td>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
-  <strong>SegFast‑V2: Semantic image segmentation with fewer parameters</strong><br>
-  <sub><em>Compact encoder‑decoder with kernel factorization &amp; depthwise deconvs; CPU‑friendly yet competitive.</em></sub><br>
-  <a href="https://link.springer.com/article/10.1007/s13042-019-00906-2"><img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge"></a>
-  <a href="https://github.com/DVLP-CMATERJU/SegFast"><img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github"></a>
-  <p align="center"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4"><rect width="100%" height="4" fill="#ffffff"/></svg></p>
+  <td width="50%">
+    <p align="center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
+        <rect width="100%" height="4" fill="#ffffff"/>
+      </svg>
+    </p>
   </td>
 </tr>
+
 <!-- ------------------------------------------------------ -->
-
-
-
-
-
-
-
-
