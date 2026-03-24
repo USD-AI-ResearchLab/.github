@@ -27,11 +27,31 @@ We advance foundational AI and machine learning with a focus on sustainable, gre
 Join us as we drive AI innovation with sustainability at its core!
 <br>
 
-
 <!-- Papers-with-Code -->
 <!-- ------------------------------------------------------ -->
 
 <tr>
+  <td width="50%">
+    <p align="center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
+        <rect width="100%" height="4" fill="#ffffff"/>
+      </svg>
+    </p>
+    <strong>MFil-Mamba: Multi-Filter Scanning for Spatial Redundancy-Aware Visual State Space Models</strong><br>
+    <sub><em>Multi-filter scanning based visual state-space architecture that captures diverse spatial dependencies while reducing redundancy in image representations.</em></sub><br>
+    <a href="https://arxiv.org/abs/2603.20074">
+      <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
+    </a>
+    <a href="https://github.com/USD-AI-ResearchLab/MFil-Mamba">
+      <img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
+    </a>
+    <p align="center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
+        <rect width="100%" height="4" fill="#ffffff"/>
+      </svg>
+    </p>
+  </td>
+
   <td width="50%">
     <p align="center">
       <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
@@ -52,7 +72,9 @@ Join us as we drive AI innovation with sustainability at its core!
       </svg>
     </p>
   </td>
+</tr>
 
+<tr>
   <td width="50%">
     <p align="center">
       <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
@@ -73,9 +95,7 @@ Join us as we drive AI innovation with sustainability at its core!
       </svg>
     </p>
   </td>
-</tr>
 
-<tr>
   <td width="50%">
     <p align="center">
       <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
@@ -96,7 +116,9 @@ Join us as we drive AI innovation with sustainability at its core!
       </svg>
     </p>
   </td>
+</tr>
 
+<tr>
   <td width="50%">
     <p align="center">
       <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
@@ -117,9 +139,7 @@ Join us as we drive AI innovation with sustainability at its core!
       </svg>
     </p>
   </td>
-</tr>
 
-<tr>
   <td width="50%">
     <p align="center">
       <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
@@ -140,7 +160,9 @@ Join us as we drive AI innovation with sustainability at its core!
       </svg>
     </p>
   </td>
+</tr>
 
+<tr>
   <td width="50%">
     <p align="center">
       <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
@@ -161,6 +183,8 @@ Join us as we drive AI innovation with sustainability at its core!
       </svg>
     </p>
   </td>
+
+  <td width="50%"></td>
 </tr>
 
 <!-- ------------------------------------------------------ -->
