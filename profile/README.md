@@ -28,7 +28,6 @@ Join us as we drive AI innovation with sustainability at its core!
 <br>
 
 
-
 <!-- Papers-with-Code -->
 <!-- ------------------------------------------------------ -->
 
@@ -87,6 +86,9 @@ Join us as we drive AI innovation with sustainability at its core!
     <sub><em>Unsupervised anomaly detection framework that incrementally learns normal patterns using uncertainty-guided updates without labeled anomalies.</em></sub><br>
     <a href="https://arxiv.org/abs/2511.03912">
       <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
+    </a>
+    <a href="https://github.com/USD-AI-ResearchLab/Incremental-learning-Anomaly-Detection">
+      <img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
     </a>
     <p align="center">
       <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
