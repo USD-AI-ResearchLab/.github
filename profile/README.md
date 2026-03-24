@@ -29,14 +29,8 @@ Join us as we drive AI innovation with sustainability at its core!
 
 
 
- Papers-with-Code 
--------
-
-<!-- ------------------------------------------------------ -->
-
 <!-- Papers-with-Code -->
 <!-- ------------------------------------------------------ -->
-<!-- Keep your look: white SVG separators, badge styling, same titles/subtitles -->
 
 <tr>
   <td width="50%">
@@ -46,7 +40,7 @@ Join us as we drive AI innovation with sustainability at its core!
       </svg>
     </p>
     <strong>Winsor-CAM</strong><br>
-    <sub><em>Class activation mapping approach with winsorization for more stable and interpretable visual explanations.</em></sub><br>
+    <sub><em>Class activation mapping technique using winsorization for more stable and interpretable visual explanations.</em></sub><br>
     <a href="https://ieeexplore.ieee.org/abstract/document/11410545">
       <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
     </a>
@@ -67,7 +61,7 @@ Join us as we drive AI innovation with sustainability at its core!
       </svg>
     </p>
     <strong>AI-CARE: Carbon-Aware Reporting Evaluation Metric for AI Models</strong><br>
-    <sub><em>Carbon-aware evaluation framework for reporting model performance, energy consumption, and derived carbon emissions.</em></sub><br>
+    <sub><em>Framework for evaluating AI models with respect to performance, energy usage, and carbon impact.</em></sub><br>
     <a href="https://arxiv.org/abs/2602.16042">
       <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
     </a>
@@ -89,6 +83,24 @@ Join us as we drive AI innovation with sustainability at its core!
         <rect width="100%" height="4" fill="#ffffff"/>
       </svg>
     </p>
+    <strong>I Detect What I Don't Know: Incremental Anomaly Learning with SWAG for Oracle-Free Medical Imaging</strong><br>
+    <sub><em>Unsupervised anomaly detection framework that incrementally learns normal patterns using uncertainty-guided updates without labeled anomalies.</em></sub><br>
+    <a href="https://arxiv.org/abs/2511.03912">
+      <img alt="Paper" src="https://img.shields.io/badge/Paper-0969DA?style=for-the-badge">
+    </a>
+    <p align="center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
+        <rect width="100%" height="4" fill="#ffffff"/>
+      </svg>
+    </p>
+  </td>
+
+  <td width="50%">
+    <p align="center">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
+        <rect width="100%" height="4" fill="#ffffff"/>
+      </svg>
+    </p>
     <strong>DeepWhaleNet: Climate Change-aware FFT-based Deep Neural Network for Passive Acoustic Monitoring</strong><br>
     <sub><em>FFT-based DNN for passive acoustic whale-call detection with climate-aware considerations; built for UPAM workflows.</em></sub><br>
     <a href="https://www.worldscientific.com/doi/10.1142/S0218001424590146">
@@ -103,7 +115,9 @@ Join us as we drive AI innovation with sustainability at its core!
       </svg>
     </p>
   </td>
+</tr>
 
+<tr>
   <td width="50%">
     <p align="center">
       <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
@@ -124,9 +138,7 @@ Join us as we drive AI innovation with sustainability at its core!
       </svg>
     </p>
   </td>
-</tr>
 
-<tr>
   <td width="50%">
     <p align="center">
       <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
@@ -141,14 +153,6 @@ Join us as we drive AI innovation with sustainability at its core!
     <a href="https://github.com/DVLP-CMATERJU/SegFast">
       <img alt="Code" src="https://img.shields.io/badge/Code-GitHub-0969DA?style=for-the-badge&logo=github">
     </a>
-    <p align="center">
-      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
-        <rect width="100%" height="4" fill="#ffffff"/>
-      </svg>
-    </p>
-  </td>
-
-  <td width="50%">
     <p align="center">
       <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="4">
         <rect width="100%" height="4" fill="#ffffff"/>
